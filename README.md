@@ -7,6 +7,8 @@ This guide walks you through the process of setting up and running the pre-bundl
 
 Now that you have your project, follow the setup instructions below:
 
+0. Python version
+   - In order to be able to run the application, you should have Python 3.9 installed. There are some dependencies that wouldn't work on later Python versions.
 1. Create a virtual environment:
    ```
    python -m venv venv
